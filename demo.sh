@@ -1,5 +1,14 @@
 #!/bin/bash
 
+#############################################################
+#
+# Author: Sam
+# Date: 19/11/23
+# Version: v1
+# Description: Checks and remove user's access to a repository
+#
+##############################################################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
